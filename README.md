@@ -12,3 +12,12 @@ https://www.hackercoolmagazine.com/how-to-setup-vulnerawa-in-wamp-server/
 To see how to set up a web app pen testing lab with Vulnerawa.
 
 https://www.hackercoolmagazine.com/how-to-create-a-web-application-pentest-lab/
+
+**What You Can Prcatice?**
+
+SQL injection
+Login Bypass
+Password cracking
+XSS
+Shell upload or file upload or rfi
+Defacing Website
